@@ -1,0 +1,26 @@
+header {
+    background-color: #A6F16C;
+    margin: 9px;
+    padding: 10px;
+    border-radius: 10px;
+}
+h1 {
+    font-family: sans-serif;
+    background-color: #62AA2A;
+    margin: 9px;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+}
+body{
+    background-color: #62AA2A;
+    margin: 9px;
+    padding: 10px;
+    border-radius: 10px;
+}
+footer {
+    background-color: #A6F16C;
+    margin: 9px;
+    padding: 10px;
+    border-radius: 10px;
+}
